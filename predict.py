@@ -86,7 +86,7 @@ def train_classifier(clf, X_train, y_train):
     clf.fit(X_train, y_train)
     end = time()
 
-    # Print the results
+    # Print the results dsadada
     # print("Trained model in {:.4f} seconds".format(end - start))
 
 
